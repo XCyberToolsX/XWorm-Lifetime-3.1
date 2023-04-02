@@ -35,7 +35,9 @@ XWorm Rat +Stealer +HVNC  v3.1 Lifetime
 ✅ File Manager
 ✅ Client [Restart - Close - Uninstall - Update - Block - Note]
 ✅ Power [Shutdown - Restart - Logoff]
+
 ⭐️ Options :
+
 ✅ BlankScreen [Enable - Disable]
 ✅ TaskMgr [Enable - Disable]
 ✅ Regedit [Enable - Disable]
@@ -46,10 +48,12 @@ XWorm Rat +Stealer +HVNC  v3.1 Lifetime
 ✅ ResetScale
 ✅ .Net 3.5 Install
 ✅ DeleteRestore
+
 ⭐️ Password Recovery :
 ✅ | Passwords - Cookies - CreditCards - Bookmarks - Downloads - Keywords - History - Autofill | [Chromium]
 ✅ | Passwords - Cookies - Bookmarks - History | [FireFox]
 ✅ | All-In-One - Discord Tokens - ProductKey - InternetExplorer - FileZilla - Wifi Keys |
+
 ⭐️ Pastime :
 ✅ CD ROOM [Open - Close]
 ✅ DesktopIcons [Show - Hide]
@@ -72,20 +76,31 @@ XWorm Rat +Stealer +HVNC  v3.1 Lifetime
 ✅ Bot killer
 ✅ WDDisable
 ✅ WDExclusion
+
 🔆 Tasks :
 ✅ GetKeylogger
 ✅ Open Url [Visible - Invisible]
 ✅ Recovery [Passwords - Cookies]
 ✅ Run File [Disk - Link - Memory]
 ✅ Update All Clients
+
 🔆 New Features :
+
 ✅ Drag And Drop Files [File Manager - Monitor - HVNC]
+
 ✅ Copy / Paste Text [HVNC]
+
 ✅ FindClient [ID]
+
 🔆 [ ✅ Lifetime - ✅ Support - ✅ Updates ]
+
 ⚙️ Requirements :
 🔸 .Net Framework 4.5 [Controller]
+
 🔸 .Net Framework 4.0 [Client]
+
 ⚠️ Contact US :
 🔹Telegram : @XCyberToolsX
+
+
 <img src="https://resimupload.org/images/2023/04/02/photo_2023-04-02_18-42-00.jpg" alt="photo_2023-04-02_18-42-00.jpg" border="0" />
